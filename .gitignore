@@ -1,0 +1,5 @@
+# Ignore emacs org mode, autosave, and backup
+
+*~
+\#*\#
+*.org
