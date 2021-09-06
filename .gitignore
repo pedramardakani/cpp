@@ -3,3 +3,11 @@
 *~
 \#*\#
 *.org
+
+# Ignore the output objects
+
+*.out
+
+# Ignore VSCode settings
+
+.vscode
